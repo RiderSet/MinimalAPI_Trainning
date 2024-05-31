@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalAPI_Second_Tirando_da_Program", "MinimalAPI_Second_Tirando_da_Program\MinimalAPI_Second_Tirando_da_Program.csproj", "{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalAPI_Test", "MinimalAPI_Test\MinimalAPI_Test.csproj", "{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1FF746A-E408-48E2-9BC1-DCC50EBEADFA}
+	EndGlobalSection
+EndGlobal

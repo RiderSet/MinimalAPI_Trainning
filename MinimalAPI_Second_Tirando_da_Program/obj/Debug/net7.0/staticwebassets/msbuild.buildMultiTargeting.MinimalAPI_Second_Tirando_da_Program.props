@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinimalAPI_Second_Tirando_da_Program.props" />
+</Project>
