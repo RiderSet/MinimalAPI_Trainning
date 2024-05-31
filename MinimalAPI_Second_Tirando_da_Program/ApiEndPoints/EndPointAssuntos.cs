@@ -31,6 +31,6 @@ namespace MinimalAPI_Second_Tirando_da_Program.ApiEndPoints
             => service.Update(codAs, assunto);
 
         internal static void RemoveAssunto([FromServices] IServiceAssunto service, Guid codAs) 
-            => service.Remove(codAs);
+            => service.Remove(codAs); // Teste
     }
 }
