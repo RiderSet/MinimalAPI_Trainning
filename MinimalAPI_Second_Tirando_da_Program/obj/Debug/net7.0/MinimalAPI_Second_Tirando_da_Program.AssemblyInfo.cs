@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinimalAPI_Second_Tirando_da_Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42d03cc0cfceac0980c4b6efbe36a0ea3a6da0f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0af2da449be8d9b455d290636c6ae6a20cfbf07e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinimalAPI_Second_Tirando_da_Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinimalAPI_Second_Tirando_da_Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

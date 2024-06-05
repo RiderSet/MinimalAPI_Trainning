@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_test\\minimalapi_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|solutionrelative:minimalapi_test\\minimalapi_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|solutionrelative:minimalapi_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_second_tirando_da_program\\apiendpoints\\endpointassuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|solutionrelative:minimalapi_second_tirando_da_program\\apiendpoints\\endpointassuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_test\\assuntotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|solutionrelative:minimalapi_test\\assuntotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,42 +41,33 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-31T22:32:23.683Z",
+              "Title": "MinimalAPI_Test.csproj",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\MinimalAPI_Test.csproj",
+              "RelativeDocumentMoniker": "MinimalAPI_Test\\MinimalAPI_Test.csproj",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\MinimalAPI_Test.csproj",
+              "RelativeToolTip": "MinimalAPI_Test\\MinimalAPI_Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T23:41:04.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "MinimalAPI_Test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\UnitTest1.cs",
-              "RelativeToolTip": "MinimalAPI_Test\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "AssuntoTest.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\AssuntoTest.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Test\\AssuntoTest.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\AssuntoTest.cs",
+              "RelativeToolTip": "MinimalAPI_Test\\AssuntoTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T21:04:31.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EndPointAssuntos.cs",
-              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
-              "RelativeDocumentMoniker": "MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
-              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
-              "RelativeToolTip": "MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T17:47:47.049Z",
               "EditorCaption": ""
             }
           ]
