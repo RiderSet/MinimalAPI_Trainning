@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wE1asR87lAI=",
+  "dgSpecHash": "6yK9HVX6AbI=",
   "success": true,
   "projectFilePath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glbst\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\glbst\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\glbst\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.18\\microsoft.aspnetcore.authentication.jwtbearer.7.0.18.nupkg.sha512",

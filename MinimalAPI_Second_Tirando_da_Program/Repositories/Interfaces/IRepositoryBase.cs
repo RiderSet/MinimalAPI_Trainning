@@ -1,6 +1,6 @@
-﻿namespace MinimalAPI_Second_Tirando_da_Program.Services.Interfaces
+﻿namespace MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces
 {
-    public interface IServiceBase<TEntity> where TEntity : class
+    public interface IRepositoryBase<TEntity> where TEntity : class
     {
         Task<List<TEntity>> GetAll();
         Task<TEntity> GetById(Guid id);

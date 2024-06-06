@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_test\\minimalapi_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|solutionrelative:minimalapi_test\\minimalapi_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_test\\assuntotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}|MinimalAPI_Test\\MinimalAPI_Test.csproj|solutionrelative:minimalapi_test\\assuntotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_second_tirando_da_program\\apiendpoints\\endpointassuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|solutionrelative:minimalapi_second_tirando_da_program\\apiendpoints\\endpointassuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_second_tirando_da_program\\models\\assunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|solutionrelative:minimalapi_second_tirando_da_program\\models\\assunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +42,56 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MinimalAPI_Test.csproj",
-              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\MinimalAPI_Test.csproj",
-              "RelativeDocumentMoniker": "MinimalAPI_Test\\MinimalAPI_Test.csproj",
-              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\MinimalAPI_Test.csproj",
-              "RelativeToolTip": "MinimalAPI_Test\\MinimalAPI_Test.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAB0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T23:41:04.14Z",
+              "DocumentIndex": 1,
+              "Title": "EndPointAssuntos.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
+              "RelativeToolTip": "MinimalAPI_Second_Tirando_da_Program\\ApiEndPoints\\EndPointAssuntos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:42:10.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AssuntoTest.cs",
               "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\AssuntoTest.cs",
               "RelativeDocumentMoniker": "MinimalAPI_Test\\AssuntoTest.cs",
               "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Test\\AssuntoTest.cs",
               "RelativeToolTip": "MinimalAPI_Test\\AssuntoTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:04:31.354Z",
+              "WhenOpened": "2024-06-06T17:37:21.004Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assunto.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\Models\\Assunto.cs",
+              "RelativeDocumentMoniker": "MinimalAPI_Second_Tirando_da_Program\\Models\\Assunto.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\Models\\Assunto.cs",
+              "RelativeToolTip": "MinimalAPI_Second_Tirando_da_Program\\Models\\Assunto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:00:33.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

@@ -1,13 +1,13 @@
 ﻿using Microsoft.IdentityModel.Tokens;
 using MinimalAPI_Second_Tirando_da_Program.Models;
-using MinimalAPI_Second_Tirando_da_Program.Services.Interfaces;
+using MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
 namespace MinimalAPI_Second_Tirando_da_Program.Services
 {
-    public class ServiceToken : IServiceToken
+    public class ServiceToken : IRepositoryToken
     {
         public string GerarToken(string key, string issuer, string audience, UserModel user)
         {

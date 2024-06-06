@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MinimalAPI_Second_Tirando_da_Program.Context;
 using MinimalAPI_Second_Tirando_da_Program.Models;
-using MinimalAPI_Second_Tirando_da_Program.Services.Interfaces;
+using MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces;
 
 namespace MinimalAPI_Second_Tirando_da_Program.Services
 {

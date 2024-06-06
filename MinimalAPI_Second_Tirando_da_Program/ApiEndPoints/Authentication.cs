@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using MinimalAPI_Second_Tirando_da_Program.Models;
-using MinimalAPI_Second_Tirando_da_Program.Services.Interfaces;
+using MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces;
 
 namespace MinimalAPI_Second_Tirando_da_Program.ApiEndPoints
 {
@@ -8,7 +8,7 @@ namespace MinimalAPI_Second_Tirando_da_Program.ApiEndPoints
     {
         public static void MapAuthenticationEndPoints(this WebApplication app)
         {
-            app.MapPost("/Login", [AllowAnonymous] (UserModel usermodel, IServiceToken tokenService) =>
+            app.MapPost("/Login", [AllowAnonymous] (UserModel usermodel, IRepositoryToken tokenService) =>
             {
                 if (usermodel == null)
                 {

@@ -50,6 +50,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.1, )"
@@ -164,6 +168,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Kralizek.AutoFixture.Extensions.AspNetCore.WebApplicationFactory": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
             "Microsoft.AspNetCore.Mvc.Testing": {
               "target": "Package",
               "version": "[7.0.20, )"
@@ -191,6 +199,10 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[111.2.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
