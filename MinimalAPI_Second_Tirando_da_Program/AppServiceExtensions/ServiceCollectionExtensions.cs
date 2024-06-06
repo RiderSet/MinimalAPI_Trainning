@@ -82,7 +82,7 @@ namespace MinimalAPI_Second_Tirando_da_Program.AppServiceExtensions
 
             builder.Services.AddDbContext<CTX>(options => options.UseSqlServer(connectionString));
             builder.Services.AddSingleton<IRepositoryToken>(new ServiceToken());
-            builder.Services.AddScoped<IServiceAssunto, ServiceAssunto>();
+            builder.Services.AddScoped<IRepositoryAssunto, ServiceAssunto>();
 
             return builder;
         }

@@ -5,7 +5,7 @@ using MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces;
 
 namespace MinimalAPI_Second_Tirando_da_Program.Services
 {
-    public class ServiceAssunto : IServiceAssunto
+    public class ServiceAssunto : IRepositoryAssunto
     {
         private readonly CTX contexto;
 
