@@ -3,7 +3,6 @@ using MinimalAPI_Second_Tirando_da_Program.AppServiceExtensions;
 using MinimalAPI_Second_Tirando_da_Program.Models;
 using MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces;
 using MinimalAPI_Second_Tirando_da_Program.Services.Interfaces;
-using System.ComponentModel.DataAnnotations;
 using static MinimalAPI_Second_Tirando_da_Program.AppServiceExtensions.ServiceValidationExtensions;
 
 namespace MinimalAPI_Second_Tirando_da_Program.ApiEndPoints
@@ -17,7 +16,6 @@ namespace MinimalAPI_Second_Tirando_da_Program.ApiEndPoints
             rotaAssuntos.MapGet("/", GetAllAssuntos).WithTags("Assuntos").RequireAuthorization();
             rotaAssuntos.MapGet("/{codAs:Guid}", GetAssuntoById).WithTags("Assuntos").RequireAuthorization();
             rotaAssuntos.MapPost("/", CreateAssunto).WhitValidator<Assunto>().WithTags("Assuntos");
-          //rotaAssuntos.MapPost("/", CreateAssunto).WithTags("Assuntos");
             rotaAssuntos.MapPut("/{codAs:Guid}", UpdateAssunto).WithTags("Assuntos");
             rotaAssuntos.MapPut("/{codAs:Guid}", RemoveAssunto).WithTags("Assuntos");
         }
