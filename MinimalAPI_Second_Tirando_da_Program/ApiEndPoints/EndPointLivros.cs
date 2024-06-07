@@ -16,9 +16,10 @@ namespace MinimalAPI_Second_Tirando_da_Program.ApiEndPoints
                 await contexto.SaveChangesAsync();
 
                 return Results.Created($"/Livros/{livro.Codl}", livro);
-            }).WhitValidator<Livro>().WithTags("Livros");
-            //===============================
-            app.MapGet("/Livros", async (CTX contexto) => await contexto.Livros.ToListAsync())
+            //}).WhitValidator<Livro>().WithTags("Livros");
+        }).WithTags("Livros");
+        //===============================
+        app.MapGet("/Livros", async (CTX contexto) => await contexto.Livros.ToListAsync())
             .WithTags("Livros")
             .RequireAuthorization();
             //===============================

@@ -4,6 +4,7 @@ namespace MinimalAPI_Second_Tirando_da_Program.Models;
 public class Assunto
 {
 
+    [JsonIgnore]
     public Guid CodAs { get; set; }
 
     //[JsonIgnore]

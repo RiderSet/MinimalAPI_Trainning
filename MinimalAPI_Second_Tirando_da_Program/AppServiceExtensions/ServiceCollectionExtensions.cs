@@ -3,8 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using MinimalAPI_Second_Tirando_da_Program.Context;
+using MinimalAPI_Second_Tirando_da_Program.Repositories;
 using MinimalAPI_Second_Tirando_da_Program.Repositories.Interfaces;
 using MinimalAPI_Second_Tirando_da_Program.Services;
+using MinimalAPI_Second_Tirando_da_Program.Services.Interfaces;
 using System.Text;
 
 namespace MinimalAPI_Second_Tirando_da_Program.AppServiceExtensions
@@ -82,7 +84,9 @@ namespace MinimalAPI_Second_Tirando_da_Program.AppServiceExtensions
 
             builder.Services.AddDbContext<CTX>(options => options.UseSqlServer(connectionString));
             builder.Services.AddSingleton<IRepositoryToken>(new ServiceToken());
-            builder.Services.AddScoped<IRepositoryAssunto, ServiceAssunto>();
+
+            builder.Services.AddScoped<IServiceAssunto, ServiceAssunto>();
+            builder.Services.AddScoped<IRepositoryAssunto, RepositoryAssunto>();
 
             return builder;
         }
