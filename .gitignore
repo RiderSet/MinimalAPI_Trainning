@@ -11,3 +11,5 @@
 *.vsidx
 /MinimalAPI_Test/UnitTest1.cs
 /MinimalAPI_Test/UnitTest1.cs
+
+.fake
