@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalAPI_Second_Tirando_d
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalAPI_Test", "MinimalAPI_Test\MinimalAPI_Test.csproj", "{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "minimalapi_second_angular.client", "minimalapi_second_angular.client\minimalapi_second_angular.client.esproj", "{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +21,6 @@ Global
 		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ADC95FD-9A48-4F0D-8B5B-6A348371F911}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D7F7AD9-4D9D-44BF-99D7-45D6AD0F7CE8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
