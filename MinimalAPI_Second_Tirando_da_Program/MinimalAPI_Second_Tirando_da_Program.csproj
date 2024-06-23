@@ -4,6 +4,9 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>a38657ba-7597-45df-a32b-041f228b963a</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,12 +24,30 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
+
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
 	<ItemGroup>
 		<InternalVisiblesTo Include="MinimalAPI_Test" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EditorConfigFiles Remove="C:\Users\glbst\Desktop\GBastos Systems\Trainning\MinimalAPI_Second_Tirando_da_Program\MinimalAPI_Trainning\MinimalAPI_Second_Tirando_da_Program\.editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="C:\Users\glbst\Desktop\GBastos Systems\Trainning\MinimalAPI_Second_Tirando_da_Program\MinimalAPI_Trainning\MinimalAPI_Second_Tirando_da_Program\.editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Update="SonarAnalyzer.CSharp" Version="7.17.0.9346">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
 	</ItemGroup>
 
 </Project>

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "minimalapi_second_tirando_da_program": "StartDebugging"
+      }
+    }
+  }
+}

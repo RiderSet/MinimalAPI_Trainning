@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\",
+  "WorkspaceRootPath": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Trainning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_second_tirando_da_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_trainning\\minimalapi_second_tirando_da_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|solutionrelative:minimalapi_second_tirando_da_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|c:\\users\\glbst\\desktop\\gbastos systems\\trainning\\minimalapi_second_tirando_da_program\\minimalapi_trainning\\minimalapi_second_tirando_da_program\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F30C3956-B6C5-4C20-9142-0C7F13AAFE43}|MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program.csproj|solutionrelative:minimalapi_second_tirando_da_program\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Trainning\\MinimalAPI_Second_Tirando_da_Program\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalAPI_Second_Tirando_da_Program\\appsettings.json",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Trainning\\MinimalAPI_Second_Tirando_da_Program\\appsettings.json",
+              "RelativeToolTip": "MinimalAPI_Second_Tirando_da_Program\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T21:35:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Trainning\\MinimalAPI_Second_Tirando_da_Program\\Program.cs",
               "RelativeDocumentMoniker": "MinimalAPI_Second_Tirando_da_Program\\Program.cs",
-              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Second_Tirando_da_Program\\Program.cs",
+              "ToolTip": "C:\\Users\\glbst\\Desktop\\GBastos Systems\\Trainning\\MinimalAPI_Second_Tirando_da_Program\\MinimalAPI_Trainning\\MinimalAPI_Second_Tirando_da_Program\\Program.cs",
               "RelativeToolTip": "MinimalAPI_Second_Tirando_da_Program\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T21:41:24.325Z",
               "EditorCaption": ""

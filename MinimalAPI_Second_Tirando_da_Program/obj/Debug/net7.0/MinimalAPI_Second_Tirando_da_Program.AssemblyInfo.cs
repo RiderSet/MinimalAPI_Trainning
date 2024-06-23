@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a38657ba-7597-45df-a32b-041f228b963a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinimalAPI_Second_Tirando_da_Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+436785a990a4c5b6f0e61fb55b4ecbfa68b564bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590f9e878a3aa7d66a41541224572a5290717545")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinimalAPI_Second_Tirando_da_Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinimalAPI_Second_Tirando_da_Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  minimalapi_second_tirando_da_program:
+    image: ${DOCKER_REGISTRY-}minimalapisecondtirandodaprogram
+    build:
+      context: .
+      dockerfile: MinimalAPI_Second_Tirando_da_Program/Dockerfile
+
+
